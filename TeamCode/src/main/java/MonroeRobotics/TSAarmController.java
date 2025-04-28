@@ -1,4 +1,4 @@
-package MonroeRobotics.TSA;
+package MonroeRobotics;
 
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.Servo;

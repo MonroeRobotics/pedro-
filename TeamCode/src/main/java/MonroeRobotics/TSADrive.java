@@ -1,4 +1,4 @@
- package MonroeRobotics.TSA;
+ package MonroeRobotics;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.Gamepad;
 
 import org.firstinspires.ftc.teamcode.vision.cameraThing;
 
-@TeleOp
+ @TeleOp
 
 public class TSADrive extends OpMode {
     TSAarmController armController;

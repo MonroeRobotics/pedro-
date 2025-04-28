@@ -1,4 +1,4 @@
-package MonroeRobotics.TSA.vision;
+package MonroeRobotics.vision;
 
 import com.acmerobotics.dashboard.config.Config;
 
